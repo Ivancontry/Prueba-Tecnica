@@ -1,0 +1,18 @@
+<div class="paginator">
+    <app-paginator (page)=getPeliculas($event) [pageSize]='movies.length' [length]='length' color='primary'></app-paginator>
+</div>
+<table class="table table-sm">
+    <caption>Movies</caption>
+    <thead>
+        <tr>
+            <th>Tittle</th>
+            <th>Overview</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let movie of movies">
+            <td>{{movie.title}}</td>
+            <td>{{movie.overview}}</td>
+        </tr>
+    </tbody>
+</table>

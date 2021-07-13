@@ -1,0 +1,12 @@
+F:\PruebaTecnica\Clientes\Entidad\bin\Debug\net5.0\Entidad.deps.json
+F:\PruebaTecnica\Clientes\Entidad\bin\Debug\net5.0\Entidad.dll
+F:\PruebaTecnica\Clientes\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+F:\PruebaTecnica\Clientes\Entidad\bin\Debug\net5.0\Entidad.pdb
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.dll
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.pdb

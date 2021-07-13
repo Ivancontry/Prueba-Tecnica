@@ -1,0 +1,15 @@
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\Datos.deps.json
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\Datos.dll
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\ref\Datos.dll
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\Datos.pdb
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\Entidad.dll
+F:\PruebaTecnica\Clientes\Datos\bin\Debug\net5.0\Entidad.pdb
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.csprojAssemblyReference.cache
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.dll
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\ref\Datos.dll
+F:\PruebaTecnica\Clientes\Datos\obj\Debug\net5.0\Datos.pdb

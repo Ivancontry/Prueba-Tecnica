@@ -1,0 +1,17 @@
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Logica.deps.json
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Logica.dll
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\ref\Logica.dll
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Logica.pdb
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Datos.dll
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Entidad.dll
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Datos.pdb
+F:\PruebaTecnica\Clientes\Logica\bin\Debug\net5.0\Entidad.pdb
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.dll
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\ref\Logica.dll
+F:\PruebaTecnica\Clientes\Logica\obj\Debug\net5.0\Logica.pdb
