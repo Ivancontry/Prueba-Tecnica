@@ -861,11 +861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PruebaTecnica\\Clientes\\Datos\\Datos.csproj",
+      "projectUniqueName": "F:\\Prueba\\GestionClientes\\Datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "F:\\PruebaTecnica\\Clientes\\Datos\\Datos.csproj",
+      "projectPath": "F:\\Prueba\\GestionClientes\\Datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\IVANCONTRY\\.nuget\\packages\\",
-      "outputPath": "F:\\PruebaTecnica\\Clientes\\Datos\\obj\\",
+      "outputPath": "F:\\Prueba\\GestionClientes\\Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -887,8 +887,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\PruebaTecnica\\Clientes\\Entidad\\Entidad.csproj": {
-              "projectPath": "F:\\PruebaTecnica\\Clientes\\Entidad\\Entidad.csproj"
+            "F:\\Prueba\\GestionClientes\\Entidad\\Entidad.csproj": {
+              "projectPath": "F:\\Prueba\\GestionClientes\\Entidad\\Entidad.csproj"
             }
           }
         }

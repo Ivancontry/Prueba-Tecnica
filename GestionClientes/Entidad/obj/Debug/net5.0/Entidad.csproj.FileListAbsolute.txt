@@ -10,3 +10,15 @@ F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInp
 F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.dll
 F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\ref\Entidad.dll
 F:\PruebaTecnica\Clientes\Entidad\obj\Debug\net5.0\Entidad.pdb
+F:\Prueba\GestionClientes\Entidad\bin\Debug\net5.0\Entidad.deps.json
+F:\Prueba\GestionClientes\Entidad\bin\Debug\net5.0\Entidad.dll
+F:\Prueba\GestionClientes\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+F:\Prueba\GestionClientes\Entidad\bin\Debug\net5.0\Entidad.pdb
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.dll
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+F:\Prueba\GestionClientes\Entidad\obj\Debug\net5.0\Entidad.pdb

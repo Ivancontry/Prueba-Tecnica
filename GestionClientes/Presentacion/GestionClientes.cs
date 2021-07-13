@@ -157,10 +157,6 @@ namespace Presentacion
             {
                 errores.Add("Apellidos Invalidos");
             }
-            if (Validaciones.ValidarSoloNumeros(txtSalario.Text))
-            {
-                errores.Add("Salario Invalido");
-            }
             return errores;
         }
 

@@ -880,11 +880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PruebaTecnica\\Clientes\\Logica\\Logica.csproj",
+      "projectUniqueName": "F:\\Prueba\\GestionClientes\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "F:\\PruebaTecnica\\Clientes\\Logica\\Logica.csproj",
+      "projectPath": "F:\\Prueba\\GestionClientes\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\IVANCONTRY\\.nuget\\packages\\",
-      "outputPath": "F:\\PruebaTecnica\\Clientes\\Logica\\obj\\",
+      "outputPath": "F:\\Prueba\\GestionClientes\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -906,11 +906,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\PruebaTecnica\\Clientes\\Datos\\Datos.csproj": {
-              "projectPath": "F:\\PruebaTecnica\\Clientes\\Datos\\Datos.csproj"
+            "F:\\Prueba\\GestionClientes\\Datos\\Datos.csproj": {
+              "projectPath": "F:\\Prueba\\GestionClientes\\Datos\\Datos.csproj"
             },
-            "F:\\PruebaTecnica\\Clientes\\Entidad\\Entidad.csproj": {
-              "projectPath": "F:\\PruebaTecnica\\Clientes\\Entidad\\Entidad.csproj"
+            "F:\\Prueba\\GestionClientes\\Entidad\\Entidad.csproj": {
+              "projectPath": "F:\\Prueba\\GestionClientes\\Entidad\\Entidad.csproj"
             }
           }
         }

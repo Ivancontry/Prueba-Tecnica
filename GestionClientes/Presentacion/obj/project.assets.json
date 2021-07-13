@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PruebaTecnica\\Clientes\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "F:\\Prueba\\GestionClientes\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "F:\\PruebaTecnica\\Clientes\\Presentacion\\Presentacion.csproj",
+      "projectPath": "F:\\Prueba\\GestionClientes\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\IVANCONTRY\\.nuget\\packages\\",
-      "outputPath": "F:\\PruebaTecnica\\Clientes\\Presentacion\\obj\\",
+      "outputPath": "F:\\Prueba\\GestionClientes\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -924,8 +924,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "F:\\PruebaTecnica\\Clientes\\Logica\\Logica.csproj": {
-              "projectPath": "F:\\PruebaTecnica\\Clientes\\Logica\\Logica.csproj"
+            "F:\\Prueba\\GestionClientes\\Logica\\Logica.csproj": {
+              "projectPath": "F:\\Prueba\\GestionClientes\\Logica\\Logica.csproj"
             }
           }
         }

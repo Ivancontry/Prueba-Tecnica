@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9P8qibahwLiVdACjZWtfBNSSeVaaDNk32dfgYPpcx5Uu+PSyQa+KmOz2na54kOLEZd8eApEMErVKa9MXo+1bLA==",
+  "dgSpecHash": "o5uSObn/GsChTQfGWAz9hhDnAbTFcvmG2TPGZezXqRI+rI8vsEEAXfEJuUGbcD/vB5z0RMjPZed1j6Dn7qn5Cw==",
   "success": true,
-  "projectFilePath": "F:\\PruebaTecnica\\Clientes\\Entidad\\Entidad.csproj",
+  "projectFilePath": "F:\\Prueba\\GestionClientes\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

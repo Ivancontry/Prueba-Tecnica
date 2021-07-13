@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G7WeE9X3sng2R/U0CPyi5oDA2Zp8qQ4433Zz/1w8CFwpw/9AAYI2RzbXKef5kqQRQ4XoHCytKN08S4dnaPUbaw==",
+  "dgSpecHash": "BWBOs47kE6YsZIAR+m048aVv9P3zbFR/1mRbd51vhHxQmnUqakDWGXQTOXryRv673P1YMLmhx0iv6JX/xKrSIQ==",
   "success": true,
-  "projectFilePath": "F:\\PruebaTecnica\\Clientes\\Logica\\Logica.csproj",
+  "projectFilePath": "F:\\Prueba\\GestionClientes\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IVANCONTRY\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\IVANCONTRY\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
